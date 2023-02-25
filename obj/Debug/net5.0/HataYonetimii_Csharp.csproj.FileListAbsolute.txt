@@ -1,0 +1,16 @@
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.csproj.AssemblyReference.cache
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.AssemblyInfoInputs.cache
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.AssemblyInfo.cs
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.csproj.CoreCompileInputs.cache
+C:\Users\Kadir\HataYonetimii_Csharp\bin\Debug\net5.0\HataYonetimii_Csharp.exe
+C:\Users\Kadir\HataYonetimii_Csharp\bin\Debug\net5.0\HataYonetimii_Csharp.deps.json
+C:\Users\Kadir\HataYonetimii_Csharp\bin\Debug\net5.0\HataYonetimii_Csharp.runtimeconfig.json
+C:\Users\Kadir\HataYonetimii_Csharp\bin\Debug\net5.0\HataYonetimii_Csharp.runtimeconfig.dev.json
+C:\Users\Kadir\HataYonetimii_Csharp\bin\Debug\net5.0\HataYonetimii_Csharp.dll
+C:\Users\Kadir\HataYonetimii_Csharp\bin\Debug\net5.0\ref\HataYonetimii_Csharp.dll
+C:\Users\Kadir\HataYonetimii_Csharp\bin\Debug\net5.0\HataYonetimii_Csharp.pdb
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.dll
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\ref\HataYonetimii_Csharp.dll
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.pdb
+C:\Users\Kadir\HataYonetimii_Csharp\obj\Debug\net5.0\HataYonetimii_Csharp.genruntimeconfig.cache
